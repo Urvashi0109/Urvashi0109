@@ -6,19 +6,20 @@
 
 - 🔭 𝙸'𝚖 𝟸𝚗𝚍 𝚢𝚎𝚊𝚛 BE CSE student.
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 😁
-- 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **𝙿𝚢𝚝𝚑𝚘𝚗, 𝙲++, 𝙹𝚊𝚟𝚊, 𝚆𝚎𝚋 𝙳𝚎𝚟𝚕𝚘𝚙𝚖𝚎𝚗𝚝 , 𝙻𝚒𝚗𝚞𝚡**
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : 𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜
+- 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **𝙿𝚢𝚝𝚑𝚘𝚗, 𝙲++, 𝙹𝚊𝚟𝚊, 𝚆𝚎𝚋 𝙳𝚎𝚟𝚕𝚘𝚙𝚖𝚎𝚗𝚝 , Machine Learning**
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 :She / Her 
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: <span>[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/urvashi-choubey-bbba18209//)   [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:urvashichoubey0121@gmail.com)</span>
 
 <br/>
-&emsp;&emsp;<a href="#">
+<a href="#">
     <img src="https://komarev.com/ghpvc/?username=Urvashi0109&color=blueviolet">
 </a>
 
-<br/>
-&emsp;&emsp;<a href='https://www.codechef.com/users/ujju07'><img src='https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white'/></a>
-<a href='https://www.hackerrank.com/CoDeZ_0'><img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white'/></a>
-<a href='https://auth.geeksforgeeks.org/user/neofetch/practice/'><img src='https://img.shields.io/badge/-geeksforgeeks-080704?style=for-the-badge&logo=geeksforgeeks'/></a>
+
+&emsp;&emsp;
+
+<a href='https://www.hackerrank.com/sriyaurvashi011'><img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white'/></a>
+<a href='https://auth.geeksforgeeks.org/user/urvashi01/practice/'><img src='https://img.shields.io/badge/-geeksforgeeks-080704?style=for-the-badge&logo=geeksforgeeks'/></a>
 
 <br/>
 <br/>
