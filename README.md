@@ -1,13 +1,18 @@
 <div align="center">
 
-<!-- Animated Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Hey%20there!%20I'm%20Urvashi%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=I%20build%20clouds%20☁️%20ship%20Kubernetes%20SIG%20Releases%20⚓%20and%20love%20Open%20Source%20💜&descSize=16&descAlignY=55&descColor=ffffff&stroke=ffffff&strokeWidth=1" width="100%"/>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%"/>
 
-</div>
+<!-- Name & Tagline with Animated Typing -->
+<a href="https://github.com/Urvashi0109">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B+I'm+Urvashi+Choubey" alt="Hi, I'm Urvashi Choubey" />
+</a>
 
-<div align="center">
+<br/>
 
-### ☁️ Cloud Engineer &nbsp;·&nbsp; ⚓ Kubernetes SIG Release &nbsp;·&nbsp; 💜 Open Source Contributor
+<a href="https://github.com/Urvashi0109">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=764BA2&center=true&vCenter=true&width=700&height=50&lines=%E2%98%81%EF%B8%8F+Cloud+Engineer+%40+FICO;%E2%9A%93+Kubernetes+SIG+Release+Team;%F0%9F%92%9C+Open+Source+Contributor+%7C+KCNA+Certified;%F0%9F%8E%A4+PyCon+India+2025+Speaker" alt="Roles" />
+</a>
 
 <br/>
 
@@ -30,6 +35,19 @@
 <a href="https://www.credly.com/badges/05347b2d-b681-4b65-a1bc-3f9f6543fa15"><img src="https://img.shields.io/badge/-KCNA_Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
 <a href="https://cfp.in.pycon.org/2025/talk/UYF3PD/"><img src="https://img.shields.io/badge/-PyCon_India_Speaker-FFD43B?style=for-the-badge&logo=python&logoColor=306998"/></a>
 <a href="https://contribcard.cncf.io/Urvashi0109"><img src="https://img.shields.io/badge/-80+_CNCF_Contributions-764ba2?style=for-the-badge&logo=cncf&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ TABLE OF CONTENTS ═══════════════════ -->
+
+<div align="center">
+
+## 🗺️ Quick Navigation
+
+| [👩‍💻 About Me](#-the-tldr) | [🛠️ Tech Stack](#-my-arsenal) | [💜 Open Source](#-open-source--my-proudest-chapter) | [🔥 Projects](#-what-ive-shipped-at-work) | [🏆 Achievements](#-trophy-case) | [📊 Stats](#-github-vibes) | [📬 Contact](#-lets-build-something-together) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
@@ -298,6 +316,6 @@ Chitkara University (2020–2024)
 
 **If you made it this far, you're awesome! ⭐ Drop a star on something you like!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
