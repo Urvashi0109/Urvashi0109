@@ -11,7 +11,7 @@
 <br/>
 
 <a href="https://github.com/Urvashi0109">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=764BA2&center=true&vCenter=true&width=700&height=50&lines=%E2%98%81%EF%B8%8F+Cloud+Engineer+%40+FICO;%E2%9A%93+Kubernetes+SIG+Release+Team;%F0%9F%92%9C+Open+Source+Contributor+%7C+KCNA+Certified;%F0%9F%8E%A4+PyCon+India+2025+Speaker" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=764BA2&center=true&vCenter=true&width=700&height=50&lines=%E2%98%81%EF%B8%8F+Cloud+Engineer+%40+Ericsson;%E2%9A%93+Kubernetes+SIG+Release+Team;%F0%9F%92%9C+Open+Source+Contributor+%7C+KCNA+Certified;%F0%9F%8E%A4+PyCon+India+2025+Speaker" alt="Roles" />
 </a>
 
 <br/>
